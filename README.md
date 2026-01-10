@@ -9,6 +9,7 @@ This project presents an interactive HR Attrition Dashboard for a medical sales 
 and key influencing factors for better decision-making.
 
 
+
 🛠 Tech Stack
 
 🟡 Power BI Desktop – Dashboard & Visualizations
@@ -31,8 +32,9 @@ and key influencing factors for better decision-making.
 
 💰 Salary Impact Analysis
 
-
 🎛 Interactive Filters & Slicers
+
+
 
 
 🔍 Key Insights
@@ -54,6 +56,8 @@ and key influencing factors for better decision-making.
 📝 README.md
 
 
+
+
 🎯 Use Cases
 
 🧠 HR Analytics
@@ -63,6 +67,8 @@ and key influencing factors for better decision-making.
 📈 Business Intelligence
 
 🏢 Management Reporting
+
+
 
 
 🚀 Future Scope
